@@ -1,0 +1,16 @@
+#ButtonTransparent {
+    background-color: #F6F6F6;
+    border-radius: 20px;
+    color: #174EA6;
+    margin-inline: 10px;
+    text-align: center;
+    border: 1px;
+}
+#ButtonTransparent:hover {
+    background-color: #E8E8E8;
+    border-radius: 28px;
+}
+#ButtonTransparent:focus {
+    border: 1px;
+    border-radius: 20px;
+}

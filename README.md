@@ -1,4 +1,4 @@
-# GUIAS DO PROJETO | React + TypeScript + Vite
+# GUIA DO PROJETO | React + TypeScript + Vite
 
 
 
