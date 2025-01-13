@@ -1,0 +1,59 @@
+/*body {
+    margin: 0 auto;
+    align-items: center;
+    background-color: #E8E8E8;
+  }
+  span {
+    width: 280px;
+    height: 50px;
+  }
+  
+  #root {
+    margin: 0 auto;
+    justify-items: center;
+    background-color: #E8E8E8;
+  }
+  
+  #loginItems {
+    width: 420px;
+  }
+  
+  #contents {
+    display: flex;
+    /* padding: 40px;
+  }
+  
+  #centralDiv {
+    padding: 5%;
+    background-color: #F6F6F6;
+    border-radius: 20px;
+  }
+  
+  #LoginText {
+    color: black;
+    font-family: Helvetica;
+    display: flex;
+    /* width: 120%; 
+    font-size: 40px;
+    margin-top: 0;
+  }
+  
+  #buttons {
+    display: flex;
+    justify-content: right;
+  }
+  
+  #centralElements {
+    width: 520px;
+    height: 190px;
+    display: flex;
+    align-items: top;
+    margin-top: 0 auto;
+    /* margin-inline: 60px; */
+    /* padding-right: 60px; 
+  }
+  
+  
+  
+  
+  
