@@ -1,4 +1,4 @@
-/*input {
+input {
     width:95%;
     height: 18%;
     border:1px solid #1c1c1c;
@@ -13,4 +13,4 @@
 }
 input:focus {
     border-radius: 2px;
-}*/
+}

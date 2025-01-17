@@ -1,4 +1,4 @@
-/*import './Input.css'
+import './Input.css'
 
 interface InputProps {
     placeholder: string
@@ -11,5 +11,3 @@ export default function Input({ placeholder, type }: InputProps) {
         <input placeholder={placeholder} id="input" type={type}></input>
     );
 }
-
-*/
